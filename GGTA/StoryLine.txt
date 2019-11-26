@@ -1,1 +1,6 @@
-"Note This is just the story a prototype coding will come later first we must write the story line based off the book"
+Note This is just the story a prototype coding will come later first we must write the story line based off the book
+
+On startup:
+Hello __insert_name__ 
+Welcome to GGTA The Great Gatsby's Text Adventure
+This is a simulator that will determine your fate as a Character in the Great Gatsby
