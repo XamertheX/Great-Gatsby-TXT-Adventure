@@ -4,3 +4,44 @@ On startup:
 Hello __insert_name__ 
 Welcome to GGTA The Great Gatsby's Text Adventure
 This is a simulator that will determine your fate as a Character in the Great Gatsby
+Choose Role:
+Party Guest(Gets incorperated into the story)
+Main Character(Part of the riginal story in a modified way)
+side character(you meet main character after some time goes on in the story)
+
+<STORY BEGINS HERE>
+Party Guest Story BEGINS here
+Your friend is trying to force you to go to one of Gatsbies Great party
+Do you believe that Gatsby is real? 
+Yes (Then lets go to the party)
+No  (lets go to the party to see ifhe exists if he doesnt will never go to another party of his unles u want to)
+You arrive at the party and you dont see Gatsby anywhere 
+Are you having fun
+yes(I told you so lets comeback)
+no (fine we can leave)STORY ENDS BECAUSE YOU NEVER MEET GATSBY
+AT The next party
+A Tall man walks over to you and begins to talk to you about Gatsby
+Do u think this Gatsby fellow is real?
+yes(Oh Really)
+no(See ya)Man walks away
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main character story begins here
+side character story begins here
+
